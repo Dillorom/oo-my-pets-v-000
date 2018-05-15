@@ -13,7 +13,7 @@ class Owner
      @@all
    end
 
-   def reset_all
+   def reset_all(name)
    end
 
   end
